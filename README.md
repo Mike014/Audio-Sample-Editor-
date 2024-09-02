@@ -34,7 +34,7 @@ To get started with the **Audio Sample Editor**, follow these steps:
   
 3. **Open the Project:**
    - Launch the JUCE Projucer application.
-   - Open the .jucer project file located in the cloned repository directory.
+   - Open the .jucer project file located in the cloned repository directory in the Main directory.
   
 4. **Configure the Project:**
    - Use JUCE Projucer to configure project settings as needed (e.g., build configurations, export targets).
@@ -56,7 +56,6 @@ To get started with the **Audio Sample Editor**, follow these steps:
 - Export Edited Audio: Save your edited audio as a WAV file using the export function.
 - Audio Sample Editor is designed to be user-friendly and efficient, making it a valuable tool for enhancing your audio files.
 
-## **In the Builds\VisualStudio2022\x64\Release you can find the compiled file and its executable.** ##
 
 
 
