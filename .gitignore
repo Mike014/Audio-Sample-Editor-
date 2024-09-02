@@ -1,0 +1,96 @@
+# Compiled files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+
+# IDE-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/
+
+# MacOS Finder metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Linux trash folder which might appear on any partition or disk
+.Trashes
+
+# JUCE-generated files
+*.jucer
+*.cpp
+*.h
+*.proj
+
+# Configuration files
+*.xcuserdata/
+*.xcworkspace/
+*.xcuserstate
+*.nib
+*.storyboard
+*.xib
+*.pbxuser
+*.pbxproj
+*.xcconfig
+
+# Others
+*.log
+*.tmp
+*.swp
+*.swo
+*.pid
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.sqlite3
+*.lock
+
+# Ignore compiled files, temporary files, and IDE-specific files
+*.suo
+*.user
+*.ncb
+*.swp
+*.sdf
+*.suo
+*.pdb
+*.idb
+
+# Ignore build artifacts
+*.log
+*.pid
+*.tmp
+*.swp
+*.swo
+
+# Ignore specific OS and IDE files
+.DS_Store
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# JUCE specific
+*.jucer
+*.proj
+*.a
+*.lib
+*.dylib
+*.so
+*.dll
+*.exe
+*.app
+*.apk
+*.ipa
+
+# Ignore additional IDE files (e.g., CLion, Qt Creator)
+cmake-build-debug/
+cmake-build-release/
